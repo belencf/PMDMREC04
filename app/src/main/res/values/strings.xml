@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Proyecto</string>
+    <string name="usuario">Usuario</string>
+    <string name="registrar">Registrar</string>
+    <string name="Entrar">Entrar</string>
+    <string name="password">Password</string>
+    <string name="administrador">Administrador</string>
+    <string name="cabecera">Cabecera</string>
+    <string name="provincias">Provincias</string>
+    <string name="ver_fase">Ver Fase</string>
+    <string name="salir">Salir</string>
+    <string name="fase_add">Engadir fase</string>
+    <string name="fase_select">Seleccionar fase para unha provincia</string>
+    <string name="fases">fases</string>
+    <string name="nombre_fase">Nombre Fase</string>
+    <string name="guardar">Guardar</string>
+</resources>
